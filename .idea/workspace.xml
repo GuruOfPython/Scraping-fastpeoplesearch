@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fastpeoplesearch_scrapy/spiders/fastpeoplesearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="919">
-              <caret line="260" selection-start-line="260" selection-end-line="260" />
+            <state relative-caret-position="783">
+              <caret line="290" selection-start-line="290" selection-end-line="290" />
             </state>
           </provider>
         </entry>
@@ -122,8 +122,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fastpeoplesearch_scrapy/spiders/fastpeoplesearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="919">
-          <caret line="260" selection-start-line="260" selection-end-line="260" />
+        <state relative-caret-position="783">
+          <caret line="290" selection-start-line="290" selection-end-line="290" />
         </state>
       </provider>
     </entry>
