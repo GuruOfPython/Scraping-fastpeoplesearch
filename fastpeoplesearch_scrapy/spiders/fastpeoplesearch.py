@@ -294,3 +294,8 @@ class FastpeoplesearchSpider(scrapy.Spider):
     def fail_phones(self, failure):
         pass
 
+    def create_result_file(self, result_file_name):
+        pass
+
+    def insert_row(self, result_row):
+        pass
