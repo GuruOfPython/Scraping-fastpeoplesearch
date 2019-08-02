@@ -288,3 +288,9 @@ class FastpeoplesearchSpider(scrapy.Spider):
 
         yield request
 
+    def get_phones(self, response):
+        pass
+
+    def fail_phones(self, failure):
+        pass
+
